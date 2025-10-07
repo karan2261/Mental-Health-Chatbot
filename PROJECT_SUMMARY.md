@@ -62,11 +62,14 @@ A **production-ready WhatsApp chatbot** that provides therapeutic support for di
 - Evidence-based therapeutic techniques
 - Warm, empathetic, non-judgmental tone
 
-✅ **RAG System**
-- PDF document processing
-- Text chunking and embedding generation
-- Vector similarity search with pgvector
-- Context retrieval for responses
+✅ **RAG System with Therapeutic Knowledge Base**
+- 2 comprehensive books by Christian Dominique (~5.1MB total):
+  - **"The Four Aces: Awakening to Happiness"** (1.6MB) - Awareness, Acceptance, Appreciation, Awe framework
+  - **"Beyond Happy: Formulas for Perfect Days"** (3.5MB) - 7Cs, 8Ps, philosophy, psychology, neuroscience
+- LangChain integration for PDF processing
+- Vector similarity search for context-aware responses
+- Text chunking (1000 chars, 200 overlap)
+- Rich content covering happiness, mindfulness, Stoicism, positive psychology
 
 ✅ **Database Management**
 - User management with WhatsApp numbers
