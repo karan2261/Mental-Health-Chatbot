@@ -52,10 +52,18 @@ curl -X POST "http://localhost:8001/api/test-message?message=I%20need%20help%20w
 
 ## 📚 Knowledge Base
 
-Three therapeutic PDFs covering:
-- Screen time addiction and digital dependency
-- Social media boundaries
-- Therapeutic techniques (CBT, ACT, DBT, Mindfulness)
+The chatbot uses two comprehensive therapeutic books by Christian Dominique:
+
+1. **4As_Manuscript_v6.pdf (1.6MB)** - "The Four Aces: Awakening to Happiness"
+   - The Four Aces: Awareness, Acceptance, Appreciation, Awe
+   - Holistic approach to happiness and well-being
+   - Mindfulness, cognitive reframing, positive psychology
+
+2. **BeyondHappy_MANUSCRIPT_v7.pdf (3.5MB)** - "Beyond Happy: Formulas for Perfect Days"
+   - The 7Cs: Contentment, Curiosity, Creativity, Compassion, Compersion, Courage, Connection
+   - The 8Ps: Presence, Positivity, Purpose, Peace, Playfulness, Passion, Patience, Perseverance
+   - Philosophy (Stoicism, Buddhism, Daoism), psychology, neuroscience
+   - Internal locus of control and mindset mastery
 
 ## 🚨 Crisis Support
 
