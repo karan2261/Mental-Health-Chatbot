@@ -98,7 +98,7 @@ class TherapeuticRAG:
                     chunk_index=chunk["chunk_index"],
                     content=chunk["content"],
                     embedding=embedding,
-                    metadata=chunk["metadata"]
+                    doc_metadata=chunk["doc_metadata"]
                 )
                 db.add(doc)
                 
