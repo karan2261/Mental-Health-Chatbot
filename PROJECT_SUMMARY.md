@@ -101,35 +101,24 @@ A **production-ready WhatsApp chatbot** that provides therapeutic support for di
 
 ## 📚 Knowledge Base Content
 
-### 1. Screen Time Addiction Guide
-- Understanding digital dependency
-- Psychology behind addiction
-- CBT approaches
-- Mindfulness techniques
-- ACT strategies
-- Motivational interviewing
-- Emotional trigger management
-- Crisis support resources
+### 1. "The Four Aces: Awakening to Happiness" by Christian Dominique (1.6MB)
+- **The Four Aces Framework**: Awareness, Acceptance, Appreciation, Awe
+- Holistic approach to happiness and well-being
+- Mindfulness and present-moment awareness techniques
+- Cognitive reframing and positive psychology principles
+- Practical exercises for emotional regulation
+- Integration of ancient wisdom with modern psychology
 
-### 2. Social Media Boundaries Guide
-- Mental health impacts
-- Comparison trap strategies
-- Boundary-setting techniques
-- Attention reclamation
-- Alternative connection methods
-- Identity beyond social media
-- Digital minimalism philosophy
+### 2. "Beyond Happy: Formulas for Perfect Days" by Christian Dominique (3.5MB)
+- **The 7Cs**: Contentment, Curiosity, Creativity, Compassion, Compersion, Courage, Connection
+- **The 8Ps**: Presence, Positivity, Purpose, Peace, Playfulness, Passion, Patience, Perseverance
+- Philosophy, psychology, and neuroscience integration
+- Stoicism and positive psychology principles
+- Practical frameworks for daily happiness
+- Evidence-based approaches to well-being
+- Mindfulness and meditation practices
 
-### 3. Therapeutic Techniques Guide
-- CBT thought records
-- RAIN mindfulness technique
-- ACT values-based goal setting
-- Motivational interviewing (DARN-CAT)
-- DBT distress tolerance (TIPP skills)
-- Sustainable habit building
-- Self-compassion practices
-
-**Total:** ~150 document chunks indexed with embeddings
+**Total:** ~5.1MB of comprehensive content covering happiness, mindfulness, Stoicism, positive psychology, and therapeutic techniques
 
 ## 🔧 Technology Stack
 
