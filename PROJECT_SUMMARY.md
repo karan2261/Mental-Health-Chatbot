@@ -36,9 +36,8 @@ A **production-ready WhatsApp chatbot** that provides therapeutic support for di
 │   ├── .env.example                   # Environment template ✅
 │   │
 │   ├── knowledge_base/                # Therapeutic PDFs ✅
-│   │   ├── screen_time_addiction_guide.pdf
-│   │   ├── social_media_boundaries_guide.pdf
-│   │   └── therapeutic_techniques_guide.pdf
+│   │   ├── 4As_Manuscript_v6.pdf (1.6MB)
+│   │   └── BeyondHappy_MANUSCRIPT_v7.pdf (3.5MB)
 │   │
 │   └── logs/                          # Application logs
 │       └── chatbot.log
