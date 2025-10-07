@@ -72,7 +72,7 @@ class TherapeuticRAG:
                         "source_file": pdf_file.name,
                         "chunk_index": i,
                         "content": chunk.page_content,
-                        "metadata": json.dumps(chunk.metadata)
+                        "doc_metadata": json.dumps(chunk.metadata)
                     })
                 
                 logger.info(f"Created {len(chunks)} chunks from {pdf_file.name}")
