@@ -85,7 +85,7 @@ class KnowledgeDocument(Base):
     chunk_index = Column(Integer, nullable=False)
     content = Column(Text, nullable=False)
     embedding = Column(Vector(1536))  # OpenAI text-embedding-3-large dimension
-    metadata = Column(Text, nullable=True)  # JSON string with additional info
+    doc_metadata = Column(Text, nullable=True)  # JSON string with additional info
     created_at = Column(DateTime, default=datetime.utcnow)
     
     def __repr__(self):
