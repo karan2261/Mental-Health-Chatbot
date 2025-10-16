@@ -41,7 +41,7 @@ WhatsApp Therapeutic Chatbot - Complete File Structure
 │   │   ├── TherapeuticRAG class
 │   │   ├── PDF document loading
 │   │   ├── Text chunking (1000 chars, 200 overlap)
-│   │   ├── Embedding generation (text-embedding-3-large)
+│   │   ├── Embedding generation (text-embedding-ada-002)
 │   │   ├── Vector similarity search
 │   │   └── Context-aware prompt building
 │   │
@@ -139,7 +139,7 @@ Server:         Uvicorn 0.25.0
 Database:       PostgreSQL 16 + pgvector 0.4.1
 ORM:            SQLAlchemy 2.0+
 AI:             OpenAI GPT-4 Turbo
-Embeddings:     text-embedding-3-large (1536 dim)
+Embeddings:     text-embedding-ada-002 (1536 dim)
 RAG:            LangChain 0.3.27
 Messaging:      Twilio WhatsApp API 9.8.3
 PDF:            pypdf 6.1.1
