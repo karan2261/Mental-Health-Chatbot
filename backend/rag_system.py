@@ -23,7 +23,7 @@ class TherapeuticRAG:
     def __init__(self, openai_api_key: str):
         """Initialize RAG system with OpenAI client."""
         self.client = OpenAI(api_key=openai_api_key)
-        self.embedding_model = "text-embedding-3-large"
+        self.embedding_model = "text-embedding-ada-002"
         self.embedding_dimension = 1536
         
         # Text splitter for chunking documents

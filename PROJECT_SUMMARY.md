@@ -136,7 +136,7 @@ A **production-ready WhatsApp chatbot** that provides therapeutic support for di
 
 ### AI/ML
 - **OpenAI GPT-4 Turbo** - Language model
-- **text-embedding-3-large** - Embeddings (1536 dim)
+- **text-embedding-ada-002** - Embeddings (1536 dim)
 - **LangChain 0.3.27** - LLM framework
 - **FAISS 1.12.0** - Vector search
 
